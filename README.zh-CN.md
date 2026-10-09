@@ -2,7 +2,7 @@
 
 > 📊 纯 React 桌面渲染栈的图表组件族 —— 自绘管线、内置入场动画。
 
-![版本](https://img.shields.io/badge/version-0.1.0-blue) ![许可证](https://img.shields.io/badge/license-MIT-green) ![运行时](https://img.shields.io/badge/%E7%BA%AFReact%C2%B7%E5%8E%9F%E7%94%9F%E5%83%8F%E7%B4%A0%C2%B7%E9%9D%9EElectron-ff69b4)
+![版本](https://img.shields.io/badge/version-0.1.3-blue) ![许可证](https://img.shields.io/badge/license-MIT-green) ![运行时](https://img.shields.io/badge/%E7%BA%AFReact%C2%B7%E5%8E%9F%E7%94%9F%E5%83%8F%E7%B4%A0%C2%B7%E9%9D%9EElectron-ff69b4)
 
 **依赖：** `react-native-flux-desktop`（UI 核心）· `react`
 

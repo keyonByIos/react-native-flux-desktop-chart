@@ -3,7 +3,7 @@
 > 📊 Chart component family for the pure‑React desktop rendering stack — Skia‑style self‑drawn, entry animations built in.
 > 📊 纯 React 桌面渲染栈的图表组件族 —— 自绘管线、内置入场动画。
 
-![version](https://img.shields.io/badge/version-0.1.0-blue) ![license](https://img.shields.io/badge/license-MIT-green) ![runtime](https://img.shields.io/badge/pure%20React%C2%B7native%20pixels%C2%B7no%20Electron-ff69b4)
+![version](https://img.shields.io/badge/version-0.1.3-blue) ![license](https://img.shields.io/badge/license-MIT-green) ![runtime](https://img.shields.io/badge/pure%20React%C2%B7native%20pixels%C2%B7no%20Electron-ff69b4)
 
 **Depends on / 依赖：** `react-native-flux-desktop`（UI core / UI 核心）· `react`
 
